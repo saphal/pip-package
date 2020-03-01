@@ -1,4 +1,4 @@
-Python Package Starter First example 
+Python Package Inheritance Class Example 
 
 This is minimal pip package created for udacity nano degree program
 
