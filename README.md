@@ -1,18 +1,20 @@
-Python Package Inheritance Class Example 
+<h1> Python Package Inheritance Class Example </h1>
 
 This is minimal pip package created for udacity nano degree program
+
+<h2>Website Link</h2>
 
 url: https://github.com/saphal/pip-package
 
 url :https://pypi.org/project/inheritance-py-sa/
 
-Movie title Genre of the film Duration of the film (in minutes) Release year of the film Number of public votes Public rating (score out of 10) Critics rating (score out of 100) Movie Gross (millions of dollars)
+This is simple inheritance class method in python. This is related to udacity nano degree program.
 
-Software used
+<h2>Software used</h2>
 
 Python
 
-How to install ?
+<h2>How to install ?</h2>
 
 pip install inheritance-py-sa
 
