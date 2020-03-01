@@ -21,6 +21,7 @@ pip install inheritance-py-sa
 from inheritance_py_sa import Clothing, Shirting, Pants, Blouse
 
 
-Authors
+<h2>Author</h2>
 Saphal Adhikari
+franticarsenal@gmail.com
 
