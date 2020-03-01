@@ -8,6 +8,8 @@ url: https://github.com/saphal/pip-package
 
 url :https://pypi.org/project/inheritance-py-sa/
 
+url : https://medium.com/@franticarsenal/how-to-build-a-simple-python-pip-package-22fad2ec68f0
+
 This is simple inheritance class method in python. This is related to udacity nano degree program.
 
 <h2>Software used</h2>
@@ -25,4 +27,6 @@ from inheritance_py_sa import Clothing, Shirting, Pants, Blouse
 Saphal Adhikari
 
 franticarsenal@gmail.com
+https://medium.com/@franticarsenal
+
 
